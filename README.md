@@ -1,48 +1,16 @@
-Main Prompts Used in Cursor IDE
+PROMPTS USED:
 
-The following prompts were used to build the project, as required by the assignment.
+PROMPT 1:
+Write Python code to generate synthetic e-commerce data and save it as 5 CSV files:
+customers.csv, products.csv, orders.csv, order_items.csv, and reviews.csv.
+Generate at least 50 rows per file and make sure all foreign keys (customer_id, order_id, product_id) match correctly.
+Use only Python standard libraries and save the CSVs in the data/ folder.
 
-Prompt 1 — Project Setup
-You are an expert Python and SQL developer. 
-Create a Python project structure that includes:
-- a data/ folder
-- generate_ecommerce_data.py
-- load_into_sqlite.py
-- query.py
-Add README.md and .gitignore.
+PROMPT 2:
+Write Python code that loads the CSV files (customers.csv, products.csv, orders.csv, order_items.csv, and reviews.csv) into a SQLite database called ecommerce.db.
+Create tables with the correct schema, enable foreign keys, drop existing data if needed, and insert all rows from the CSVs.
+Use only sqlite and csv modules.
 
-Prompt 2 — Generate Synthetic E-Commerce Data
-Generate around 5 synthetic e-commerce CSV files using only Python standard libraries.
-Create customers.csv, products.csv, orders.csv, order_items.csv, and reviews.csv.
-Ensure realistic columns, valid relationships, and save files into data/.
-
-Prompt 3 — SQLite Ingestion Script
-Write a script load_into_sqlite.py that:
-- creates ecommerce.db
-- creates tables: customers, products, orders, order_items, reviews
-- loads all CSV files from data/
-- enables foreign keys
-- commits and prints counts.
-Use only sqlite3 and csv.
-
-Prompt 4 — SQL JOIN Query Script
-Create a Python script query.py that connects to ecommerce.db and runs SQL queries:
-1. Total spent per customer.
-2. Top products by sales revenue.
-3. Order summary with customer details.
-Use JOINs and print readable results.
-
-MAIN SHORTER PROMPTS ARE:
-You are an expert Python and SQL developer. I am doing an assignment with these requirements:
-
-Generate around 5 synthetic e-commerce CSV files.
-
-Ingest those CSVs into a SQLite database.
-
-Write an SQL query that joins multiple tables and prints some result.
-
-All code and generated project files are committed to GitHub using:
-
-git add .
-git commit -m "AI-SDLC e-commerce project completed"
-git push origin main
+PROMPT 3:
+Write a Python script that connects to ecommerce.db and runs SQL queries that join multiple tables: customers, orders, order_items, products, and reviews.
+The script should output analytics such as total amount spent per customer, top products by revenue, and order-level summaries.
