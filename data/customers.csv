@@ -1,0 +1,121 @@
+customer_id,first_name,last_name,email,city,state,segment,signup_date
+1,Taylor,Smith,taylor.smith1@example.com,Denver,CO,consumer,2025-01-02
+2,Jordan,Johnson,jordan.johnson2@example.com,Miami,FL,enterprise,2025-06-12
+3,Quinn,Smith,quinn.smith3@example.com,Seattle,WA,consumer,2025-06-06
+4,Casey,Clark,casey.clark4@example.com,New York,NY,enterprise,2025-08-13
+5,Casey,Clark,casey.clark5@example.com,Chicago,IL,small_business,2025-01-27
+6,Avery,Lee,avery.lee6@example.com,Seattle,WA,enterprise,2025-03-30
+7,Quinn,Martinez,quinn.martinez7@example.com,Denver,CO,consumer,2025-04-03
+8,Riley,Johnson,riley.johnson8@example.com,Portland,OR,consumer,2024-08-16
+9,Riley,Martinez,riley.martinez9@example.com,New York,NY,consumer,2024-12-13
+10,Jamie,Clark,jamie.clark10@example.com,Portland,OR,consumer,2024-08-18
+11,Robin,Lee,robin.lee11@example.com,New York,NY,enterprise,2024-09-04
+12,Casey,Johnson,casey.johnson12@example.com,Seattle,WA,small_business,2025-01-19
+13,Taylor,Brown,taylor.brown13@example.com,Portland,OR,small_business,2024-08-16
+14,Jamie,Martinez,jamie.martinez14@example.com,San Francisco,CA,small_business,2024-08-26
+15,Casey,Lee,casey.lee15@example.com,Portland,OR,enterprise,2023-12-26
+16,Jordan,Clark,jordan.clark16@example.com,Los Angeles,CA,small_business,2025-03-26
+17,Quinn,Lee,quinn.lee17@example.com,Miami,FL,enterprise,2025-01-28
+18,Riley,Smith,riley.smith18@example.com,Los Angeles,CA,small_business,2025-08-08
+19,Quinn,Lee,quinn.lee19@example.com,Portland,OR,enterprise,2025-02-05
+20,Riley,Brown,riley.brown20@example.com,Atlanta,GA,enterprise,2024-07-31
+21,Jamie,Garcia,jamie.garcia21@example.com,Denver,CO,consumer,2025-04-20
+22,Robin,Clark,robin.clark22@example.com,Denver,CO,small_business,2024-01-20
+23,Avery,Davis,avery.davis23@example.com,Austin,TX,consumer,2025-01-28
+24,Robin,Lopez,robin.lopez24@example.com,Portland,OR,consumer,2025-07-23
+25,Jordan,Garcia,jordan.garcia25@example.com,Chicago,IL,consumer,2024-01-08
+26,Quinn,Davis,quinn.davis26@example.com,New York,NY,enterprise,2024-05-18
+27,Morgan,Clark,morgan.clark27@example.com,Seattle,WA,enterprise,2025-05-15
+28,Robin,Lee,robin.lee28@example.com,Austin,TX,small_business,2025-05-18
+29,Quinn,Garcia,quinn.garcia29@example.com,Atlanta,GA,enterprise,2025-09-06
+30,Morgan,Clark,morgan.clark30@example.com,San Francisco,CA,consumer,2024-04-08
+31,Morgan,Clark,morgan.clark31@example.com,New York,NY,consumer,2025-02-18
+32,Riley,Garcia,riley.garcia32@example.com,Miami,FL,consumer,2024-03-15
+33,Avery,Martinez,avery.martinez33@example.com,Atlanta,GA,consumer,2025-08-21
+34,Riley,Lee,riley.lee34@example.com,Los Angeles,CA,consumer,2025-07-12
+35,Avery,Johnson,avery.johnson35@example.com,Portland,OR,consumer,2024-04-30
+36,Robin,Garcia,robin.garcia36@example.com,San Francisco,CA,enterprise,2024-05-11
+37,Jordan,Lee,jordan.lee37@example.com,Miami,FL,small_business,2023-12-28
+38,Casey,Clark,casey.clark38@example.com,Los Angeles,CA,small_business,2024-10-25
+39,Riley,Lopez,riley.lopez39@example.com,Miami,FL,consumer,2024-06-04
+40,Casey,Brown,casey.brown40@example.com,Portland,OR,consumer,2024-09-28
+41,Avery,Clark,avery.clark41@example.com,Los Angeles,CA,consumer,2024-01-16
+42,Alex,Johnson,alex.johnson42@example.com,Seattle,WA,consumer,2025-01-18
+43,Alex,Martinez,alex.martinez43@example.com,Portland,OR,consumer,2024-04-01
+44,Morgan,Lopez,morgan.lopez44@example.com,Los Angeles,CA,consumer,2024-03-06
+45,Avery,Walker,avery.walker45@example.com,Atlanta,GA,small_business,2025-01-04
+46,Quinn,Brown,quinn.brown46@example.com,Portland,OR,enterprise,2025-06-02
+47,Quinn,Martinez,quinn.martinez47@example.com,Chicago,IL,small_business,2024-07-16
+48,Alex,Johnson,alex.johnson48@example.com,Seattle,WA,enterprise,2024-07-24
+49,Riley,Johnson,riley.johnson49@example.com,Los Angeles,CA,consumer,2025-02-25
+50,Robin,Lopez,robin.lopez50@example.com,San Francisco,CA,consumer,2024-07-04
+51,Morgan,Lopez,morgan.lopez51@example.com,Los Angeles,CA,small_business,2025-06-24
+52,Robin,Johnson,robin.johnson52@example.com,Seattle,WA,consumer,2024-03-05
+53,Taylor,Brown,taylor.brown53@example.com,San Francisco,CA,small_business,2024-07-20
+54,Jamie,Brown,jamie.brown54@example.com,Chicago,IL,consumer,2025-07-11
+55,Quinn,Smith,quinn.smith55@example.com,Chicago,IL,small_business,2024-12-12
+56,Morgan,Davis,morgan.davis56@example.com,Miami,FL,consumer,2024-04-29
+57,Casey,Lee,casey.lee57@example.com,Los Angeles,CA,enterprise,2025-07-12
+58,Robin,Smith,robin.smith58@example.com,Austin,TX,consumer,2025-07-13
+59,Avery,Lopez,avery.lopez59@example.com,Miami,FL,consumer,2024-03-15
+60,Alex,Clark,alex.clark60@example.com,Portland,OR,consumer,2025-03-03
+61,Avery,Johnson,avery.johnson61@example.com,Los Angeles,CA,consumer,2024-07-23
+62,Avery,Brown,avery.brown62@example.com,New York,NY,consumer,2024-01-10
+63,Avery,Johnson,avery.johnson63@example.com,Chicago,IL,enterprise,2024-01-21
+64,Robin,Martinez,robin.martinez64@example.com,Denver,CO,enterprise,2025-02-12
+65,Riley,Brown,riley.brown65@example.com,Denver,CO,consumer,2024-07-31
+66,Morgan,Lopez,morgan.lopez66@example.com,Austin,TX,consumer,2025-06-27
+67,Jamie,Walker,jamie.walker67@example.com,New York,NY,consumer,2025-05-30
+68,Robin,Brown,robin.brown68@example.com,Miami,FL,consumer,2024-12-12
+69,Riley,Johnson,riley.johnson69@example.com,Los Angeles,CA,small_business,2024-08-27
+70,Jordan,Lopez,jordan.lopez70@example.com,Miami,FL,enterprise,2024-11-04
+71,Robin,Smith,robin.smith71@example.com,Miami,FL,enterprise,2024-11-07
+72,Taylor,Garcia,taylor.garcia72@example.com,Denver,CO,consumer,2025-05-14
+73,Robin,Garcia,robin.garcia73@example.com,Denver,CO,enterprise,2024-11-25
+74,Casey,Martinez,casey.martinez74@example.com,Los Angeles,CA,enterprise,2024-12-13
+75,Jamie,Lee,jamie.lee75@example.com,Seattle,WA,enterprise,2025-06-07
+76,Quinn,Lee,quinn.lee76@example.com,Seattle,WA,small_business,2025-09-06
+77,Jordan,Lee,jordan.lee77@example.com,San Francisco,CA,enterprise,2024-06-14
+78,Quinn,Clark,quinn.clark78@example.com,Seattle,WA,consumer,2025-05-18
+79,Jordan,Clark,jordan.clark79@example.com,Seattle,WA,enterprise,2024-08-27
+80,Robin,Garcia,robin.garcia80@example.com,Chicago,IL,consumer,2025-05-02
+81,Morgan,Martinez,morgan.martinez81@example.com,Seattle,WA,consumer,2024-09-08
+82,Casey,Johnson,casey.johnson82@example.com,Austin,TX,small_business,2024-02-14
+83,Avery,Garcia,avery.garcia83@example.com,Los Angeles,CA,consumer,2025-03-27
+84,Quinn,Smith,quinn.smith84@example.com,San Francisco,CA,small_business,2024-10-04
+85,Casey,Lee,casey.lee85@example.com,San Francisco,CA,small_business,2025-05-22
+86,Alex,Lopez,alex.lopez86@example.com,Los Angeles,CA,small_business,2025-02-17
+87,Riley,Lee,riley.lee87@example.com,Los Angeles,CA,consumer,2025-01-24
+88,Casey,Davis,casey.davis88@example.com,Austin,TX,consumer,2024-11-28
+89,Morgan,Martinez,morgan.martinez89@example.com,Miami,FL,enterprise,2024-07-27
+90,Robin,Martinez,robin.martinez90@example.com,Seattle,WA,small_business,2025-05-14
+91,Jordan,Walker,jordan.walker91@example.com,Denver,CO,consumer,2025-08-01
+92,Avery,Davis,avery.davis92@example.com,Austin,TX,small_business,2024-10-23
+93,Avery,Clark,avery.clark93@example.com,Portland,OR,enterprise,2024-08-11
+94,Casey,Lee,casey.lee94@example.com,Seattle,WA,consumer,2024-06-20
+95,Robin,Clark,robin.clark95@example.com,Los Angeles,CA,small_business,2024-09-02
+96,Taylor,Martinez,taylor.martinez96@example.com,New York,NY,enterprise,2024-10-23
+97,Taylor,Lee,taylor.lee97@example.com,Miami,FL,enterprise,2024-10-28
+98,Quinn,Martinez,quinn.martinez98@example.com,Chicago,IL,enterprise,2024-11-11
+99,Jordan,Brown,jordan.brown99@example.com,Chicago,IL,enterprise,2024-08-17
+100,Jordan,Walker,jordan.walker100@example.com,New York,NY,small_business,2024-11-05
+101,Robin,Smith,robin.smith101@example.com,Denver,CO,consumer,2024-11-20
+102,Quinn,Walker,quinn.walker102@example.com,New York,NY,small_business,2024-10-15
+103,Jamie,Lopez,jamie.lopez103@example.com,Los Angeles,CA,small_business,2024-04-04
+104,Jordan,Johnson,jordan.johnson104@example.com,Denver,CO,enterprise,2024-03-31
+105,Avery,Martinez,avery.martinez105@example.com,Portland,OR,enterprise,2025-01-12
+106,Morgan,Brown,morgan.brown106@example.com,Los Angeles,CA,consumer,2025-04-12
+107,Alex,Brown,alex.brown107@example.com,Atlanta,GA,consumer,2023-12-24
+108,Jamie,Davis,jamie.davis108@example.com,New York,NY,enterprise,2025-02-22
+109,Quinn,Lopez,quinn.lopez109@example.com,Chicago,IL,consumer,2025-01-03
+110,Alex,Johnson,alex.johnson110@example.com,Chicago,IL,consumer,2025-01-28
+111,Robin,Lopez,robin.lopez111@example.com,Seattle,WA,consumer,2024-02-17
+112,Taylor,Lopez,taylor.lopez112@example.com,San Francisco,CA,enterprise,2024-05-22
+113,Robin,Clark,robin.clark113@example.com,New York,NY,small_business,2024-10-20
+114,Avery,Clark,avery.clark114@example.com,Chicago,IL,small_business,2024-02-26
+115,Jordan,Lopez,jordan.lopez115@example.com,Atlanta,GA,consumer,2024-12-18
+116,Morgan,Clark,morgan.clark116@example.com,Atlanta,GA,small_business,2025-01-08
+117,Jamie,Johnson,jamie.johnson117@example.com,Denver,CO,small_business,2025-01-12
+118,Riley,Martinez,riley.martinez118@example.com,Miami,FL,consumer,2025-06-19
+119,Jordan,Brown,jordan.brown119@example.com,Chicago,IL,enterprise,2025-04-06
+120,Casey,Johnson,casey.johnson120@example.com,Chicago,IL,small_business,2024-07-19

@@ -1,0 +1,151 @@
+review_id,customer_id,product_id,rating,title,comment,review_date
+1,49,8,5,Poor,Decent value for the price.,2025-07-31
+2,27,45,1,Poor,Item as described. Would buy again.,2025-07-06
+3,85,34,3,Poor,Item as described. Would buy again.,2025-09-28
+4,66,47,5,Okay,Item as described. Would buy again.,2025-10-08
+5,101,7,4,Skip this,Packaging could be better.,2025-08-28
+6,100,17,5,Okay,Not as durable as I hoped.,2025-08-26
+7,38,11,1,Good,Fantastic customer service.,2025-03-28
+8,43,16,1,Excellent,Item as described. Would buy again.,2025-12-01
+9,107,37,4,Excellent,Works as advertised.,2025-09-22
+10,10,47,1,Good,Fantastic customer service.,2025-07-29
+11,38,17,4,Excellent,Decent value for the price.,2025-11-12
+12,112,3,3,Okay,Not as durable as I hoped.,2025-06-06
+13,95,8,1,Excellent,Decent value for the price.,2025-11-14
+14,85,42,2,Okay,Fantastic customer service.,2025-06-22
+15,80,18,1,Okay,Decent value for the price.,2025-05-31
+16,15,26,4,Okay,Not as durable as I hoped.,2025-04-18
+17,89,55,4,Good,Item as described. Would buy again.,2025-05-06
+18,17,45,1,Excellent,Not as durable as I hoped.,2025-09-17
+19,117,38,4,Good,Returned for a refund.,2025-04-27
+20,49,50,3,Good,Fantastic customer service.,2025-11-23
+21,118,32,1,Poor,Great quality and fast shipping.,2025-05-11
+22,9,17,3,Skip this,Returned for a refund.,2025-12-01
+23,93,37,2,Skip this,Works as advertised.,2025-06-17
+24,89,45,5,Poor,Packaging could be better.,2025-10-20
+25,62,23,4,Skip this,Returned for a refund.,2025-09-22
+26,7,1,2,Poor,Fantastic customer service.,2025-03-24
+27,112,11,1,Okay,Packaging could be better.,2025-03-31
+28,43,18,1,Good,Works as advertised.,2025-03-23
+29,83,25,4,Excellent,Fantastic customer service.,2025-08-09
+30,57,52,5,Excellent,Fantastic customer service.,2025-04-22
+31,58,21,1,Excellent,Item as described. Would buy again.,2025-03-28
+32,52,27,1,Excellent,Returned for a refund.,2025-12-07
+33,80,41,3,Skip this,Packaging could be better.,2025-03-22
+34,84,43,4,Okay,Great quality and fast shipping.,2025-06-16
+35,105,15,4,Skip this,Returned for a refund.,2025-06-21
+36,77,31,3,Excellent,Item as described. Would buy again.,2025-04-20
+37,98,43,2,Okay,Arrived late but product is good.,2025-12-06
+38,107,41,3,Okay,Item as described. Would buy again.,2025-03-15
+39,6,58,2,Good,Not as durable as I hoped.,2025-03-30
+40,14,17,5,Good,Item as described. Would buy again.,2025-08-29
+41,120,55,4,Poor,Packaging could be better.,2025-08-19
+42,92,22,1,Excellent,Returned for a refund.,2025-05-09
+43,16,50,4,Skip this,Works as advertised.,2025-04-17
+44,18,32,1,Excellent,Works as advertised.,2025-03-11
+45,120,28,5,Skip this,Decent value for the price.,2025-04-04
+46,89,38,2,Excellent,Not as durable as I hoped.,2025-10-03
+47,85,39,5,Skip this,Not as durable as I hoped.,2025-06-26
+48,54,39,2,Poor,Arrived late but product is good.,2025-07-20
+49,38,29,2,Poor,Returned for a refund.,2025-09-28
+50,90,57,5,Skip this,Arrived late but product is good.,2025-07-07
+51,92,48,5,Good,Packaging could be better.,2025-08-18
+52,80,46,3,Good,Decent value for the price.,2025-06-14
+53,65,35,3,Okay,Works as advertised.,2025-10-09
+54,62,38,5,Skip this,Exceeded expectations!,2025-05-08
+55,113,55,4,Skip this,Item as described. Would buy again.,2025-12-01
+56,4,25,2,Excellent,Packaging could be better.,2025-11-10
+57,35,49,2,Okay,Decent value for the price.,2025-07-14
+58,108,4,3,Skip this,Great quality and fast shipping.,2025-08-25
+59,46,53,4,Skip this,Works as advertised.,2025-10-16
+60,111,15,5,Good,Works as advertised.,2025-05-22
+61,101,51,3,Poor,Not as durable as I hoped.,2025-11-13
+62,54,51,3,Excellent,Exceeded expectations!,2025-11-10
+63,26,40,4,Okay,Returned for a refund.,2025-08-14
+64,70,48,5,Good,Exceeded expectations!,2025-08-29
+65,58,12,1,Good,Works as advertised.,2025-09-03
+66,16,25,1,Okay,Works as advertised.,2025-05-02
+67,34,9,2,Excellent,Arrived late but product is good.,2025-07-30
+68,60,46,2,Good,Arrived late but product is good.,2025-11-17
+69,77,4,5,Poor,Returned for a refund.,2025-07-06
+70,71,23,1,Skip this,Packaging could be better.,2025-06-28
+71,24,34,1,Good,Not as durable as I hoped.,2025-03-24
+72,70,35,4,Okay,Packaging could be better.,2025-10-21
+73,114,14,3,Okay,Exceeded expectations!,2025-06-21
+74,28,49,5,Poor,Works as advertised.,2025-03-11
+75,106,49,1,Okay,Fantastic customer service.,2025-10-10
+76,31,58,5,Excellent,Arrived late but product is good.,2025-08-05
+77,49,59,1,Okay,Works as advertised.,2025-05-24
+78,93,19,1,Okay,Works as advertised.,2025-03-18
+79,103,33,4,Excellent,Exceeded expectations!,2025-04-02
+80,115,42,2,Skip this,Item as described. Would buy again.,2025-06-26
+81,13,11,5,Excellent,Item as described. Would buy again.,2025-03-09
+82,27,43,2,Excellent,Packaging could be better.,2025-05-04
+83,69,54,4,Good,Great quality and fast shipping.,2025-11-01
+84,59,46,3,Excellent,Item as described. Would buy again.,2025-11-18
+85,7,12,3,Skip this,Packaging could be better.,2025-11-01
+86,117,17,4,Poor,Not as durable as I hoped.,2025-05-23
+87,56,21,1,Excellent,Works as advertised.,2025-05-22
+88,1,42,5,Skip this,Great quality and fast shipping.,2025-11-05
+89,90,55,1,Skip this,Item as described. Would buy again.,2025-06-07
+90,38,51,3,Okay,Fantastic customer service.,2025-10-24
+91,49,26,1,Good,Works as advertised.,2025-04-09
+92,29,9,4,Okay,Decent value for the price.,2025-03-03
+93,39,44,3,Skip this,Works as advertised.,2025-12-02
+94,19,8,1,Skip this,Returned for a refund.,2025-12-05
+95,51,35,5,Okay,Packaging could be better.,2025-10-25
+96,96,48,3,Poor,Works as advertised.,2025-08-21
+97,19,11,2,Skip this,Exceeded expectations!,2025-08-16
+98,25,8,2,Skip this,Fantastic customer service.,2025-11-10
+99,83,36,1,Excellent,Exceeded expectations!,2025-07-12
+100,13,13,5,Okay,Arrived late but product is good.,2025-04-02
+101,17,43,2,Okay,Returned for a refund.,2025-10-17
+102,9,58,2,Poor,Fantastic customer service.,2025-06-28
+103,43,40,3,Skip this,Returned for a refund.,2025-09-20
+104,47,52,3,Good,Great quality and fast shipping.,2025-05-02
+105,41,16,2,Okay,Arrived late but product is good.,2025-04-28
+106,18,44,3,Poor,Fantastic customer service.,2025-04-06
+107,46,50,3,Skip this,Item as described. Would buy again.,2025-04-02
+108,23,42,5,Okay,Decent value for the price.,2025-10-27
+109,115,35,2,Excellent,Item as described. Would buy again.,2025-07-26
+110,115,2,5,Skip this,Returned for a refund.,2025-11-22
+111,52,50,5,Excellent,Works as advertised.,2025-08-21
+112,34,35,5,Good,Arrived late but product is good.,2025-04-10
+113,51,15,5,Good,Fantastic customer service.,2025-07-12
+114,65,33,1,Okay,Works as advertised.,2025-05-18
+115,2,43,2,Skip this,Decent value for the price.,2025-09-14
+116,58,11,2,Poor,Arrived late but product is good.,2025-09-24
+117,6,15,4,Excellent,Exceeded expectations!,2025-08-11
+118,48,15,1,Skip this,Arrived late but product is good.,2025-08-24
+119,50,31,4,Excellent,Arrived late but product is good.,2025-11-14
+120,14,46,5,Okay,Returned for a refund.,2025-07-20
+121,70,37,2,Poor,Arrived late but product is good.,2025-05-29
+122,76,42,1,Okay,Not as durable as I hoped.,2025-03-18
+123,117,15,5,Okay,Arrived late but product is good.,2025-05-14
+124,63,51,4,Skip this,Decent value for the price.,2025-12-04
+125,57,11,2,Skip this,Exceeded expectations!,2025-10-29
+126,28,10,2,Okay,Returned for a refund.,2025-09-18
+127,92,53,1,Poor,Arrived late but product is good.,2025-08-12
+128,93,8,4,Poor,Packaging could be better.,2025-04-06
+129,76,11,4,Good,Great quality and fast shipping.,2025-11-26
+130,17,37,5,Good,Works as advertised.,2025-09-16
+131,6,58,5,Excellent,Decent value for the price.,2025-09-23
+132,34,60,2,Poor,Returned for a refund.,2025-03-18
+133,73,41,1,Excellent,Packaging could be better.,2025-07-15
+134,58,39,4,Good,Packaging could be better.,2025-04-05
+135,107,27,5,Skip this,Decent value for the price.,2025-09-25
+136,80,43,5,Good,Arrived late but product is good.,2025-07-25
+137,119,30,5,Good,Not as durable as I hoped.,2025-11-02
+138,50,9,1,Good,Works as advertised.,2025-11-29
+139,111,59,5,Good,Returned for a refund.,2025-05-07
+140,13,12,4,Skip this,Works as advertised.,2025-11-18
+141,97,8,1,Good,Returned for a refund.,2025-04-05
+142,70,53,1,Skip this,Not as durable as I hoped.,2025-05-01
+143,48,56,1,Poor,Packaging could be better.,2025-03-11
+144,103,31,4,Skip this,Returned for a refund.,2025-06-11
+145,13,28,2,Poor,Packaging could be better.,2025-07-30
+146,117,55,1,Skip this,Works as advertised.,2025-07-15
+147,53,17,2,Excellent,Returned for a refund.,2025-12-05
+148,67,8,5,Poor,Packaging could be better.,2025-12-04
+149,89,52,3,Okay,Item as described. Would buy again.,2025-05-12
+150,20,28,5,Okay,Works as advertised.,2025-07-31

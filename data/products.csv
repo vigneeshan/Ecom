@@ -1,0 +1,61 @@
+product_id,name,category,subcategory,price,cost,is_active
+1,Puzzle Prime,Toys,Puzzle,30.7,19.95,False
+2,Board Game Prime,Toys,Board Game,171.91,117.38,True
+3,Trimmer Plus,Beauty,Trimmer,175.74,84.69,False
+4,Camera Go,Electronics,Camera,237.25,151.71,True
+5,Moisturizer Pro,Beauty,Moisturizer,318.31,183.85,True
+6,Camera Max,Electronics,Camera,304.66,138.47,True
+7,Hair Dryer Plus,Beauty,Hair Dryer,164.33,82.37,False
+8,Hiking Boots Mini,Outdoors,Hiking Boots,293.79,158.97,True
+9,Backpack Lite,Outdoors,Backpack,275.51,164.07,True
+10,Coffee Maker Pro,Home,Coffee Maker,221.06,104.24,False
+11,Speaker Plus,Electronics,Speaker,167.84,80.04,True
+12,Desk Lamp Lite,Home,Desk Lamp,274.34,123.21,True
+13,Speaker Pro,Electronics,Speaker,325.79,186.59,False
+14,Moisturizer Lite,Beauty,Moisturizer,211.11,137.05,True
+15,Smartwatch Lite,Electronics,Smartwatch,280.62,159.89,True
+16,Cooler Prime,Outdoors,Cooler,234.75,98.76,True
+17,Camera Studio,Electronics,Camera,45.44,31.27,False
+18,Blender Max,Home,Blender,259.36,178.87,True
+19,Building Set Studio,Toys,Building Set,167.79,108.68,True
+20,Backpack Lite,Outdoors,Backpack,104.48,55.92,False
+21,Building Set Prime,Toys,Building Set,124.04,68.01,True
+22,Blender Plus,Home,Blender,130.32,62.23,True
+23,RC Car Pro,Toys,RC Car,185.41,84.79,True
+24,Trimmer Plus,Beauty,Trimmer,244.65,145.27,False
+25,Serum Lite,Beauty,Serum,109.69,57.18,True
+26,Cooler Go,Outdoors,Cooler,170.65,95.44,False
+27,RC Car Go,Toys,RC Car,248.82,119.75,True
+28,Vacuum Plus,Home,Vacuum,116.94,72.84,True
+29,Coffee Maker Studio,Home,Coffee Maker,103.65,59.79,True
+30,Laptop Mini,Electronics,Laptop,86.96,39.47,True
+31,Drone Mini,Toys,Drone,25.0,10.41,True
+32,Blender Lite,Home,Blender,306.66,175.48,False
+33,Trimmer Go,Beauty,Trimmer,72.28,30.03,False
+34,Headphones Prime,Electronics,Headphones,176.94,101.41,True
+35,Coffee Maker Mini,Home,Coffee Maker,38.5,18.27,False
+36,Building Set Plus,Toys,Building Set,273.62,140.67,False
+37,Cooler Prime,Outdoors,Cooler,113.48,66.53,True
+38,Coffee Maker Mini,Home,Coffee Maker,234.38,104.8,True
+39,Board Game Max,Toys,Board Game,10.41,5.57,False
+40,Tent Plus,Outdoors,Tent,107.6,52.17,False
+41,Laptop Mini,Electronics,Laptop,277.76,163.19,True
+42,Serum Plus,Beauty,Serum,230.02,154.69,True
+43,Headphones Max,Electronics,Headphones,279.39,161.63,True
+44,Serum Studio,Beauty,Serum,243.99,148.81,True
+45,Building Set Studio,Toys,Building Set,158.56,91.87,False
+46,Cooler Mini,Outdoors,Cooler,18.31,8.58,True
+47,Cooler Pro,Outdoors,Cooler,269.34,121.89,False
+48,Backpack Prime,Outdoors,Backpack,225.64,123.54,True
+49,Hair Dryer Prime,Beauty,Hair Dryer,122.99,73.92,True
+50,Hiking Boots Studio,Outdoors,Hiking Boots,107.64,73.58,True
+51,Serum Go,Beauty,Serum,95.44,41.5,False
+52,Board Game Studio,Toys,Board Game,150.21,68.54,True
+53,Puzzle Studio,Toys,Puzzle,268.28,123.7,True
+54,Hiking Boots Studio,Outdoors,Hiking Boots,50.85,35.19,True
+55,Air Fryer Pro,Home,Air Fryer,197.54,84.54,True
+56,Serum Max,Beauty,Serum,179.2,110.2,True
+57,Trimmer Studio,Beauty,Trimmer,92.49,52.29,False
+58,Desk Lamp Max,Home,Desk Lamp,303.7,146.65,False
+59,Cooler Mini,Outdoors,Cooler,288.9,140.07,True
+60,Building Set Studio,Toys,Building Set,304.12,162.39,False
