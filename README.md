@@ -32,17 +32,14 @@ Create a Python script query.py that connects to ecommerce.db and runs SQL queri
 3. Order summary with customer details.
 Use JOINs and print readable results.
 
-▶️ How to Run This Project
-1. Generate the CSV data
-python generate_ecommerce_data.py
+MAIN SHORTER PROMPTS ARE:
+You are an expert Python and SQL developer. I am doing an assignment with these requirements:
 
-2. Ingest into SQLite
-python ingest_to_sqlite.py
+Generate around 5 synthetic e-commerce CSV files.
 
-3. Run analysis queries
-python query.py
+Ingest those CSVs into a SQLite database.
 
-🌐 Version Control
+Write an SQL query that joins multiple tables and prints some result.
 
 All code and generated project files are committed to GitHub using:
 
