@@ -30,19 +30,24 @@ def main():
         c.first_name,
         c.last_name,
         p.category
-    ORDER BY revenue DESC, orders_count DESC;
+    ORDER BY revenue DESC, orders_count DESC
+    LIMIT 10;
     """
 
     cur.execute(query)
     rows = cur.fetchall()
 
-    # Print column headers
-    col_names = [desc[0] for desc in cur.description]
-    print("\t".join(col_names))
+    # Column names
+    headers = [desc[0] for desc in cur.description]
 
-    # Print rows
+    # Print header row with alignment
+    print("\n=== QUERY RESULT (Top 10 Rows) ===\n")
+    print(" | ".join(h.ljust(15) for h in headers))
+    print("-" * (len(headers) * 18))
+
+    # Print each row
     for row in rows:
-        print("\t".join(str(x) for x in row))
+        print(" | ".join(str(col).ljust(15) for col in row))
 
     conn.close()
 
